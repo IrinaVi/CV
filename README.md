@@ -1,13 +1,16 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I love solving real life problems and coding in my free time. Each of my projects I started with thinking about how I can impove this world and help someone to solve their worry. 
+After writing Python scripts in my previous SEO roles, I have discovered my true passion and decided to switch my career to being an engineer. I have had a study break to gain skills that would help me to find the job of my dreams as a software engineer.
+I am a self-starter, quick learner and have a can-do attitude. I am self-organised, self-motivated and enjoy learning and improving my skills.
+
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Telegram bot - Christian bible | Easy navigating Bible right in your phone! | Python              |
 
 ## Work Experience
 
