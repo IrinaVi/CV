@@ -1,8 +1,8 @@
-## Your Name
+<h1 align="center">Irina Soldatenkova</h1>
 
 I love solving real life problems and coding in my free time. Each of my projects I started with thinking about how I can impove this world and help someone to solve their worry. 
-After writing Python scripts in my previous SEO roles, I have discovered my true passion and decided to switch my career to being an engineer. I have had a study break to gain skills that would help me to find the job of my dreams as a software engineer.
-I am a self-starter, quick learner and have a can-do attitude. I am self-organised, self-motivated and enjoy learning and improving my skills.
+In my previous SEO roles I was writing Python scripts to automate data gathering and data analysis. I also tried coding in my free time. This made me realise that my true passion is programming. However, it was difficult to make the decision about switching a career. The pandemic helped me to put my life into perspective and make the move towards the career of my dreams.
+I love bugs and solving them - I get very excited about searching where they are coming from! I enjoy working as a part of a team and my own. I am a self-starter, quick learner and have a can-do attitude. I am self-organised, self-motivated and love learning and improving my skills.
 
 
 ## Projects
