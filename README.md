@@ -1,11 +1,22 @@
-<h1 align="center">Irina Soldatenkova</h1>
+<h1 align="center">Irina Soldatenkova </h1>
 
-I love solving real life problems and coding in my free time. Each of my projects I started with thinking about how I can impove this world and help someone to solve their worry. 
-In my previous SEO roles I was writing Python scripts to automate data gathering and data analysis. I also tried coding in my free time. This made me realise that my true passion is programming. However, it was difficult to make the decision about switching a career. The pandemic helped me to put my life into perspective and make the move towards the career of my dreams.
-I love bugs and solving them - I get very excited about searching where they are coming from! I enjoy working as a part of a team and my own. I am a self-starter, quick learner and have a can-do attitude. I am self-organised, self-motivated and love learning and improving my skills.
+<h2>About Me</h2>
 
+<p>I love solving real life problems and coding in my free time. Each of my projects I started with thinking about how I can impove this world and help someone to solve their worry. </p>
+<p>In my previous SEO roles I was writing Python scripts to automate data gathering and data analysis. I also tried coding in my free time. This made me realise that my true passion is programming. However, it was difficult to make the decision about switching a career. The pandemic helped me to put my life into perspective and make the move towards the career of my dreams.</p>
+<p>I love bugs and solving them - I get very excited about searching where they are coming from! I enjoy working as a part of a team and my own. I am a self-starter, quick learner and have a can-do attitude. I am self-organised, self-motivated and love learning and improving my skills.</p>
 
-## Projects
+<h2>Tech I Love 💙</h2>
+  <ul>
+    <li>Python (Flask, Unittest, Jinja, WTForms, Web Scraping)</li>
+    <li>Ruby (Rails, Sinatra, RSpec)</li>
+    <li>JavaScript (Express, Jest)</li>
+    <li>SQL, PosgreSQL, MySQL</li>
+    <li>HTML, CSS</li>
+    <li>Heroku</li>
+  </ul>
+
+<h2>Projects</h2>
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
