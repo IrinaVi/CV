@@ -20,7 +20,7 @@
 
 | Name                         | Description       | Tech/tools        | Project Type     |
 | ---------------------------- | ----------------- | ----------------- | ---------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. | Group project    |
+| SpotiFive           | A quiz game that allows users to login with their Spotify account and play. The game has two modes: guess an artist and guess the songs | Rails, Spotify API, HTML/CSS, JS, Bootstrap | Group project    |
 | Telegram bot - Christian bible | Easy navigating Bible right in your phone! | Python              |
 
 ## Work Experience
