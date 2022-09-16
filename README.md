@@ -1,4 +1,4 @@
-<h1 align="center">Irina Soldatenkova </h1>
+<h1 align="center">Irina Soldatenkova 👩‍🦰</h1>
 
 <h2>About Me</h2>
 
@@ -16,14 +16,22 @@
     <li>Heroku</li>
   </ul>
 
-<h2>Projects</h2>
+<h2>Projects 👩‍💻</h2>
 
-| Name                         | Description       | Tech/tools        | Project Type     |
-| ---------------------------- | ----------------- | ----------------- | ---------------- |
-| SpotiFive           | A quiz game that allows users to login with their Spotify account and play. The game has two modes: guess an artist and guess the songs | Rails, Spotify API, HTML/CSS, JS, Bootstrap | Group project    |
-| Telegram bot - Christian bible | Easy navigating Bible right in your phone! | Python              |
+| Name/GitHub Link                         | Description       | Tech/tools        | Project Type     | Live Link   |
+| ---------------------------- | ----------------- | ----------------- | ---------------- | ----------| ----------- |
+| <a href="https://github.com/IrinaVi/SpotiFive">SpotiFive</a>          | A quiz game that allows users to login with their Spotify account and play. The game has two modes: guess an artist and guess the songs | Rails, Spotify API, HTML/CSS, JS, Bootstrap | Group project    |
+| <a href="https://github.com/IrinaVi/Bible-telegram-bot">Telegram bot - Christian bible</a> | Easy navigating Bible right in your phone! | Python              | Personal project   | https://telegram.me/Christian_Bible_Bot |
+| <a href="https://github.com/IrinaVi/Acebook">Acebook</a> | Facebook clone - allows you adding friends, creating posts and much more! | Express JS, Cypress, Jest, MongoDB, HTML, CSS | Group Project | https://acebook-the-pyjamas.herokuapp.com/ |
+| <a href="https://github.com/IrinaVi/wild-flights-project">Wild Flights</a> | This website helps you to find flights from your city within your budget | Python, Flask, SQLite, PosgreSQL, HTML, Bootstrap | Personal Project | https://wild-flights.herokuapp.com/  |
 
-## Work Experience
+For more, please see my <a href="https://github.com/IrinaVi?tab=repositories">GitHub repositories</a>
+
+<h2>Skills 🧐</h2>
+
+
+
+<h2>Work Experience 🤓</h2>
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -86,6 +94,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+<h2>Hobbies & Interests 🌈</h2>
+  <ul>
+    <li>🧘‍♀️ <b>Yoga & Meditations: </b> Help me to stay fit and centered on my goals. </li>
+    <li>✈️ <b>Travelling & Learning about other cultures:</b> I love learning about how people live in different countries. So far, I've been to 20 countries, my next destination is Japan 🇯🇵! </li>
+    <li>🚶‍♀️ <b>Hiking:</b> Love fresh air and gorgeous landsgapes of the UK! Hiking also helps me to be connected to the nature.</li>
+    <li>📚 </b>Reading:</b> I've recently finished "Never Split the Difference: Negotiating as if Your Life Depended on It" by Chris Voss. While it was super interesting to learn about the work of a profeccional negotiator, the author also gives valuable advice on how to handle disagreements in every day work. </li>
+  </ul>
