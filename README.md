@@ -18,8 +18,8 @@
 
 <h2>Projects 👩‍💻</h2>
 
-| Name/GitHub Link                         | Description       | Tech/tools        | Project Type     | Live Link   |
-| ---------------------------- | ----------------- | ----------------- | ---------------- | ----------| ----------- |
+| Name/GitHub Link             | Description       | Tech              | Project Type     | Live Link | 
+| ---------------------------- | ----------------- | ----------------- | ---------------- | ----------|
 | <a href="https://github.com/IrinaVi/SpotiFive">SpotiFive</a> | A quiz game that allows users to login with their Spotify account and play. The game has two modes: guess an artist and guess the songs | Rails, Spotify API, HTML/CSS, JS, Bootstrap | Group project    | *we are currently working on deploying the app to AWS |
 | <a href="https://github.com/IrinaVi/Bible-telegram-bot">Telegram bot - Christian bible</a> | Easy navigating Bible right in your phone! | Python              | Personal project   | https://telegram.me/Christian_Bible_Bot |
 | <a href="https://github.com/IrinaVi/Acebook">Acebook</a> | Facebook clone - allows you adding friends, creating posts and much more! | Express JS, Cypress, Jest, MongoDB, HTML, CSS | Group Project | https://acebook-the-pyjamas.herokuapp.com/ |
