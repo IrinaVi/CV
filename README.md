@@ -29,21 +29,26 @@ For more, please see my <a href="https://github.com/IrinaVi?tab=repositories">Gi
 
 <h2>Skills 🧐</h2>
 
+<b>Great communicator</b>
+I have experience working with stakeholders and building strong relationships with them. In my previous roles as an SEO Manager, I was collaborating with internal teams daily to know their requirements and agree on new implementations. 
+
+<b>Inspiring Mentor</b>
+As a part of several of my previous roles I was doing training and helping junior members of the team learn more. In my las role as an SEO Manager I had a team of two, who I was training, providing support in daily tasks & organising meetings where each of the members was doing a presentation on a given topic. This helped me inspire everyone in my team to keep learning and educating themselves.</br>
+After I left my team to persuade my goals in programming career, one of the juniors contacted me saying she misses me and that I was a good manager.
+
+<b>Fast Learner</b>
 
 
 <h2>Work Experience 🤓</h2>
 
-**Makers Academy Bootcamp** (May 2022 - September 2022)  
+<b>**Makers Academy Bootcamp**</b> (May 2022 - September 2022)  
 Student
-<ul>
-  <li></li>
-  <li></li>
-</ul>
 
-**Python Bootcamp 100 Days of Code (Udemy)** (start-date to end-date)  
+<b>**Python Bootcamp 100 Days of Code (Udemy)**</b>(start-date to end-date)  
 _Your job title_
 
-**Starcom** (March 2021 - September 2021)  
+
+<b>**Starcom**</b> (March 2021 - September 2021)  
 SEO Manager
 <ul>
   <li>Writing Python scripts to automate work for clients (such as pulling the data from GSC using Pandas & Search Console packages).</li>
@@ -52,7 +57,8 @@ SEO Manager
   <li>Client meetings/calls/presentations.</li>
 </ul>
 
-**New Look** (February 2020 - March 2021)  
+
+<b>**New Look**</b> (February 2020 - March 2021)  
 SEO Assistant Manager
 <ul>
   <li>Working with the SEO agency on the SEO Strategy and delivering SEO improvements</li>
@@ -61,11 +67,13 @@ SEO Assistant Manager
   <li>Delivering technical SEO audits and recommendations.</li>
 </ul>
 
-**Ayima** (October 2018 - February 2020)  
+
+<b>**Ayima**</b> (October 2018 - February 2020)  
 SEO Consultant
 <p>Delivering SEO audits (technical, content, video, local, facet optimisation etc) to the clients, assisting the clients’ technical and content teams on the implementation of the recommendations. Participating in calls and meetings with clients. I was also responsible for creating best practice guidelines and delivering SEO training to the clients.</p>
 
-**The Media Image** (September 2017 - September 2018)  
+
+<b>**The Media Image**</b> (September 2017 - September 2018)  
 Technical Junior SEO Executive
 <p>I was responsible for working on the client’s website, which included delivering new pages and optimising existing pages. I was working on delivering Technical SEO Audits, Backlink audits and content audits to the clients.</p>
 
