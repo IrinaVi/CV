@@ -18,9 +18,9 @@
 
 <h2>Projects</h2>
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| Name                         | Description       | Tech/tools        | Project Type     |
+| ---------------------------- | ----------------- | ----------------- | ---------------- |
+| **Final project**            | A webapp to do x. | React, Jest, etc. | Group project    |
 | Telegram bot - Christian bible | Easy navigating Bible right in your phone! | Python              |
 
 ## Work Experience
