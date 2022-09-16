@@ -33,13 +33,41 @@ For more, please see my <a href="https://github.com/IrinaVi?tab=repositories">Gi
 
 <h2>Work Experience 🤓</h2>
 
-**Company Name** (start-date to end-date)  
+**Makers Academy Bootcamp** (May 2022 - September 2022)  
+Student
+<ul>
+  <li></li>
+  <li></li>
+</ul>
+
+**Python Bootcamp 100 Days of Code (Udemy)** (start-date to end-date)  
 _Your job title_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+**Starcom** (March 2021 - September 2021)  
+SEO Manager
+<ul>
+  <li>Writing Python scripts to automate work for clients (such as pulling the data from GSC using Pandas & Search Console packages).</li>
+  <li>Collaborating with internal stakeholders and various clients’ departments in order to implement new features on the websites.</li>
+  <li>Managing a team of two junior members, which included work distribution, skills training, work assessment etc.</li>
+  <li>Client meetings/calls/presentations.</li>
+</ul>
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**New Look** (February 2020 - March 2021)  
+SEO Assistant Manager
+<ul>
+  <li>Working with the SEO agency on the SEO Strategy and delivering SEO improvements</li>
+  <li>Collaborating on cross-channel projects, working closely with PPC and Social teams.</li>
+  <li>Delivering SEO training for other teams.</li>
+  <li>Delivering technical SEO audits and recommendations.</li>
+</ul>
+
+**Ayima** (October 2018 - February 2020)  
+SEO Consultant
+<p>Delivering SEO audits (technical, content, video, local, facet optimisation etc) to the clients, assisting the clients’ technical and content teams on the implementation of the recommendations. Participating in calls and meetings with clients. I was also responsible for creating best practice guidelines and delivering SEO training to the clients.</p>
+
+**The Media Image** (September 2017 - September 2018)  
+Technical Junior SEO Executive
+<p>I was responsible for working on the client’s website, which included delivering new pages and optimising existing pages. I was working on delivering Technical SEO Audits, Backlink audits and content audits to the clients.</p>
 
 - Any experience relevent to software development
 
