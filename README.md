@@ -4,6 +4,7 @@
 
 <p>I love solving real life problems and coding in my free time. Each of my projects I started with thinking about how I can impove this world and help someone to solve their worry. </p>
 <p>In my previous SEO roles I was writing Python scripts to automate data gathering and data analysis. I also tried coding in my free time. This made me realise that my true passion is programming. However, it was difficult to make the decision about switching a career. The pandemic helped me to put my life into perspective and make the move towards the career of my dreams.</p>
+<p>I would love to work for a company that has software as a main product, as this way I will know that </p>
 <p>I love bugs and solving them - I get very excited about searching where they are coming from! I enjoy working as a part of a team and my own. I am a self-starter, quick learner and have a can-do attitude. I am self-organised, self-motivated and love learning and improving my skills.</p>
 
 <h2>Tech I Love 💙</h2>
@@ -29,20 +30,26 @@ For more, please see my <a href="https://github.com/IrinaVi?tab=repositories">Gi
 
 <h2>Skills 🧐</h2>
 
-<b>Great communicator</b>
-I have experience working with stakeholders and building strong relationships with them. In my previous roles as an SEO Manager, I was collaborating with internal teams daily to know their requirements and agree on new implementations. 
+<h3>Great communicator</h3>
+I have experience working with internal/external stakeholders and building strong relationships with them. In my previous roles as an SEO Manager, I was collaborating with internal teams daily to know their requirements and agree on new implementations. 
 
-<b>Inspiring Mentor</b>
-As a part of several of my previous roles I was doing training and helping junior members of the team learn more. In my las role as an SEO Manager I had a team of two, who I was training, providing support in daily tasks & organising meetings where each of the members was doing a presentation on a given topic. This helped me inspire everyone in my team to keep learning and educating themselves.</br>
+<h3>Inspiring Mentor</h3>
+As a part of several of my previous roles I was responsible training and helping junior members of the team learn more. In my last role as an SEO Manager I was in charge of a team of two, whom I was training, providing support in daily tasks & organising meetings where each of the members was doing a presentation on a given topic. This helped me inspire everyone in my team to keep learning and educating themselves.</br>
 After I left my team to persuade my goals in programming career, one of the juniors contacted me saying she misses me and that I was a good manager.
 
-<b>Fast Learner</b>
+<h3>Fast Learner</h3>
+For our final project at Makers, we decided to use a framework we were not familiar with at the time - Ruby on Rails. As we had only 2 weeks to build the project, it was essential that I learn how to build web apps with Rails in a matter of very short time. I started with reading the official documentation, along with watching video tutorials. After spending one day on studying, I was comfortable to start building the app. As a result we  successfully built a fully functioning app - <a href="https://github.com/IrinaVi/SpotiFive">SpotiFive</a>.
+
+<h3>Team player</h3>
 
 
 <h2>Work Experience 🤓</h2>
 
 <b>**Makers Academy Bootcamp**</b> (May 2022 - September 2022)  
 Student
+Intensive coding bootcamp
+
+
 
 <b>**Python Bootcamp 100 Days of Code (Udemy)**</b>(start-date to end-date)  
 _Your job title_
