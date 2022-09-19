@@ -45,7 +45,7 @@ I love working in a team and learning about people more through team projects. D
 
 <h2>Work Experience 🤓</h2>
 
-<b>**Makers Academy Bootcamp**</b> (May 2022 - September 2022)  
+<h3>**Makers Academy Bootcamp**</h3> (May 2022 - September 2022)  
 Student
 16-week intensive coding Bootcamp, where I learnt:
 <ul>
@@ -57,7 +57,7 @@ Student
   <li>Programming languages and frameworks: Ruby (Sinatra, rails, RSpec), JavaScript (Express, Jest), SQL (PostgreSQL), MongoDB, API</li>
 </ul>
 
-<b>**Python Bootcamp 100 Days of Code (Udemy)**</b>(start-date to end-date)
+<h3<b>**Python Bootcamp 100 Days of Code (Udemy)**</b></h3>(start-date to end-date)
 <ul>
     <li>Studied the Python Bootcamp 100 Days of Code on Udemy. During this course, I have learnt how to build apps, and websites, automate processes and scrape websites using Python, OOP, and various modules.</li>
   <li>Developed my python projects:
