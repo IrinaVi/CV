@@ -45,7 +45,7 @@ I love working in a team and learning about people more through team projects. D
 
 <h2>Work Experience 🤓</h2>
 
-<h4><u>Makers Academy Bootcamp</u></h4> (May 2022 - September 2022)  
+<h4><a href="https://makers.tech/">Makers Academy Bootcamp</a></h4> (May 2022 - September 2022)  
 Student
 16-week intensive coding Bootcamp, where I learnt:
 <ul>
@@ -57,7 +57,8 @@ Student
   <li>Programming languages and frameworks: Ruby (Sinatra, rails, RSpec), JavaScript (Express, Jest), SQL (PostgreSQL), MongoDB, API</li>
 </ul>
 
-<h3><b>**Python Bootcamp 100 Days of Code (Udemy)**</b></h3>(start-date to end-date)
+<h4><a href="https://www.udemy.com/course/100-days-of-code/">Python Bootcamp 100 Days of Code (Udemy)</a></h4>(October 2021 - April 2022)
+<h4><a href="https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/">Data Structures and Algorithms Course in Python (Udemy)</a></h4>
 <ul>
     <li>Studied the Python Bootcamp 100 Days of Code on Udemy. During this course, I have learnt how to build apps, and websites, automate processes and scrape websites using Python, OOP, and various modules.</li>
   <li>Developed my python projects:
@@ -69,7 +70,7 @@ Student
     </li>
 </ul>
 
-<b>**Starcom**</b> (March 2021 - September 2021)  
+<h4><a href="https://www.starcomww.com/">Starcom</a></h4> (March 2021 - September 2021)  
 SEO Manager
 <ul>
   <li>Writing Python scripts to automate work for clients (such as pulling the data from GSC using Pandas & Search Console packages).</li>
@@ -79,7 +80,7 @@ SEO Manager
 </ul>
 
 
-<b>**New Look**</b> (February 2020 - March 2021)  
+<h4><a href="https://www.newlook.com/uk/womens">New Look</a></h4> (February 2020 - March 2021)  
 SEO Assistant Manager
 <ul>
   <li>Working with the SEO agency on the SEO Strategy and delivering SEO improvements</li>
@@ -89,12 +90,12 @@ SEO Assistant Manager
 </ul>
 
 
-<b>**Ayima**</b> (October 2018 - February 2020)  
+<h4><a href="https://www.ayima.com/uk/">Ayima</a></h4> (October 2018 - February 2020)  
 SEO Consultant
 <p>Delivering SEO audits (technical, content, video, local, facet optimisation, etc) to the clients, assisting the clients’ technical and content teams in the implementation of the recommendations. Participating in calls and meetings with clients. I was also responsible for creating best practice guidelines and delivering SEO training to clients.</p>
 
 
-<b>**The Media Image**</b> (September 2017 - September 2018)  
+<h4><a href="https://the-media-image.com/">The Media Image</a></h4> (September 2017 - September 2018)  
 Technical Junior SEO Executive
 <p>I was responsible for working on the client’s website, which included delivering new pages and optimising existing pages. I was working on delivering Technical SEO Audits, Backlink audits and content audits to the clients.</p>
 
