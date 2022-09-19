@@ -45,7 +45,7 @@ I love working in a team and learning about people more through team projects. D
 
 <h2>Work Experience 🤓</h2>
 
-<h3>**Makers Academy Bootcamp**</h3> (May 2022 - September 2022)  
+<h4>**Makers Academy Bootcamp**</h4> (May 2022 - September 2022)  
 Student
 16-week intensive coding Bootcamp, where I learnt:
 <ul>
