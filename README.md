@@ -80,7 +80,7 @@ I love working in a team and learning about people more through team projects. D
   <li>Managing a team of two junior members, which included work distribution, skills training, work assessment, etc.</li>
   <li>Client meetings/calls/presentations.</li>
 </ul>
-
+<br>
 
 <h4><a href="https://www.newlook.com/uk/womens">New Look</a>, (February 2020 - March 2021) </h4>  
 <h5>SEO Assistant Manager</h5>
@@ -90,12 +90,12 @@ I love working in a team and learning about people more through team projects. D
   <li>Delivering SEO training for other teams.</li>
   <li>Delivering technical SEO audits and recommendations.</li>
 </ul>
-
+<br>
 
 <h4><a href="https://www.ayima.com/uk/">Ayima</a>, (October 2018 - February 2020) </h4> 
 <h5>SEO Consultant</h5>
 <p>Delivering SEO audits (technical, content, video, local, facet optimisation, etc) to the clients, assisting the clients’ technical and content teams in the implementation of the recommendations. Participating in calls and meetings with clients. I was also responsible for creating best practice guidelines and delivering SEO training to clients.</p>
-
+<br>
 
 <h4><a href="https://the-media-image.com/">The Media Image</a>, (September 2017 - September 2018) </h4>   
 <h5>Technical Junior SEO Executive</h5>
