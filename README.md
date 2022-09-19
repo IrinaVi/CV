@@ -41,19 +41,33 @@ After I left my team to persuade my goals in programming career, one of the juni
 For our final project at Makers, we decided to use a framework we were not familiar with at the time - Ruby on Rails. As we had only 2 weeks to build the project, it was essential that I learn how to build web apps with Rails in a matter of very short time. I started with reading the official documentation, along with watching video tutorials. After spending one day on studying, I was comfortable to start building the app. As a result we  successfully built a fully functioning app - <a href="https://github.com/IrinaVi/SpotiFive">SpotiFive</a>.
 
 <h3>Team player</h3>
-
+I love working in a team, and learning about people more through the team projects. During the Makers bootcamp I was a part of three different teams. I always try to make sure I do my part not only from the coding percpective, but also a colleague perspective: I want to make sure everyone is comfortable in the team. For example, in one of our projects, I noticed that one of the team members was very quite and didn't participate much in the team meetings. I asked the team to make sure that everyone is following and that everyone's opinions matter and they should not be shy in expressing it. After that I noticed, my team member started saying more - they knew, we need their opinion.
 
 <h2>Work Experience 🤓</h2>
 
 <b>**Makers Academy Bootcamp**</b> (May 2022 - September 2022)  
 Student
-Intensive coding bootcamp
+16-week intensive coding bootcamp, where I learnt:
+<ul>
+  <li>To follow best practices when coding - OOP, TDD, DRY code, separation of concerns and other</li>
+  <li>How to build a web app from scratch</li>
+  <li>How to pair program effeciently</li>
+  <li>Agile processes</li>
+  <li>How to plan a project and organise a team to build a web app</li>
+  <li>Programming languages and framewokrs: Ruby (sinatra, rails, RSpec), JavaScript (Express, Jest), SQL (PostgreSQL), MongoDB, API</li>
+</ul>
 
-
-
-<b>**Python Bootcamp 100 Days of Code (Udemy)**</b>(start-date to end-date)  
-_Your job title_
-
+<b>**Python Bootcamp 100 Days of Code (Udemy)**</b>(start-date to end-date)
+<ul>
+    <li>Studied the Python bootcamp 100 Days of Code on Udemy. During this course I have learnt how to build apps, websites, automate processes, scrape websites using Python, OOP and various modules.</li>
+  <li>Developed my own python projects:
+    <ul>
+      <li>https://wild-flights.herokuapp.com/ - for the project I used: Flask, Jinja, WTForms, SQLite, SQLalchemy, Amadeus API, HTML, CSS. </li>
+      <li>Cookie clicker game automation script using Selenium.</li>
+      <li>Snake game - based on Turtle module and OOP.</li>
+    </ul>
+    </li>
+</ul>
 
 <b>**Starcom**</b> (March 2021 - September 2021)  
 SEO Manager
@@ -83,59 +97,6 @@ SEO Consultant
 <b>**The Media Image**</b> (September 2017 - September 2018)  
 Technical Junior SEO Executive
 <p>I was responsible for working on the client’s website, which included delivering new pages and optimising existing pages. I was working on delivering Technical SEO Audits, Backlink audits and content audits to the clients.</p>
-
-- Any experience relevent to software development
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 <h2>Hobbies & Interests 🌈</h2>
   <ul>
