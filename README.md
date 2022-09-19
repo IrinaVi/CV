@@ -1,6 +1,6 @@
 <h1 align="center">Irina Soldatenkova 👩‍🦰</h1>
 
-<h2 align="center"><a href="#aboutme">About Me</a> | <a href="#tech">Tech I Love</a> | <a href="#projects">Projects</a> | <a href="#skills">Skills</a> | <a href="#work">Work Experience</a> | <a href="#hobbies">Hobbies & Interests</a><h2>
+<h3 align="center"><a href="#aboutme">About Me</a> | <a href="#tech">Tech I Love</a> | <a href="#projects">Projects</a> | <a href="#skills">Skills</a> | <a href="#work">Work Experience</a> | <a href="#hobbies">Hobbies & Interests</a></h3>
 
 <h2 id="aboutme">About Me</h2>
 
