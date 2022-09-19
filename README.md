@@ -1,13 +1,15 @@
 <h1 align="center">Irina Soldatenkova 👩‍🦰</h1>
 
-<h2>About Me</h2>
+<h2 align="center"><a href="#aboutme">About Me</a> | <a href="#tech">Tech I Love</a> | <a href="#projects">Projects</a> | <a href="#skills">Skills</a> | <a href="#work">Work Experience</a> | <a href="#hobbies">Hobbies & Interests</a><h2>
+
+<h2 id="aboutme">About Me</h2>
 
 <p>I love solving real-life problems and coding in my free time. For each of the projects I built, I started by thinking about how I can improve this world and help someone to solve their worry. </p>
 <p>In my previous <a href="https://searchengineland.com/guide/what-is-seo">SEO</a> roles, I was writing Python scripts to automate data gathering and data analysis. I also tried coding in my free time. This made me realise that my true passion is programming. However, it was difficult to make the decision about switching careers. The pandemic gave me a lot of free time and helped to put my life into perspective and make the move toward the career of my dreams.</p>
 <p>I love coding because it helps solve problems and make our life easier. It also has almost endless possibilities. Another very exciting thing about programming is that it is constantly evolving and to be a good developer you need to always learn something new. I love learning new things and improving my skills, I'm sure I'll never get bored of coding! ❤️</p>
 <p>I love bugs and solving them - I get very excited about searching where they are coming from! I am a self-starter, a quick learner, and have a can-do attitude. I am self-organised, and self-motivated.</p>
 
-<h2>Tech I Love 💙</h2>
+<h2 id="tech">Tech I Love 💙</h2>
   <ul>
     <li>Python (Flask, Unittest, Jinja, WTForms, Web Scraping)</li>
     <li>Ruby (Rails, Sinatra, RSpec)</li>
@@ -17,7 +19,7 @@
     <li>Heroku</li>
   </ul>
 
-<h2>Projects 👩‍💻</h2>
+<h2 id="projects">Projects 👩‍💻</h2>
 
 | Name/GitHub Link             | Description       | Tech              | Project Type     | Live Link | 
 | ---------------------------- | ----------------- | ----------------- | ---------------- | ----------|
@@ -28,7 +30,7 @@
 
 For more, please see my <a href="https://github.com/IrinaVi?tab=repositories">GitHub repositories</a>
 
-<h2>Skills 🧐</h2>
+<h2 id="skills">Skills 🧐</h2>
 
 <h3>Great communicator</h3>
 I have experience working with internal/external stakeholders and building strong relationships with them. In my previous roles as an SEO Manager, I was collaborating with internal teams daily to know their requirements and agree on new implementations. 
@@ -43,7 +45,7 @@ For our final project at Makers, we decided to use a framework we were not famil
 <h3>Team player</h3>
 I love working in a team and learning about people more through team projects. During the Makers Bootcamp, I was a part of three different teams. I always try to make sure I do my part not only from the coding perspective but also from a colleague's perspective: I want to make sure everyone is comfortable in the team. For example, in one of our projects, I noticed that one of the team members was very quiet and didn't participate much in the team meetings. I asked the team to make sure that everyone is following and that everyone's opinions matter and they should not be shy in expressing them. After that I noticed, that my team member started saying more - they knew, we need their opinion.
 
-<h2>Work Experience 🤓</h2>
+<h2 id="work">Work Experience 🤓</h2>
 
 <h4><a href="https://makers.tech/">Makers Academy Bootcamp</a>, (May 2022 - September 2022)</h4> 
 <h5>Student</h5>
@@ -57,8 +59,8 @@ I love working in a team and learning about people more through team projects. D
   <li>Programming languages and frameworks: Ruby (Sinatra, rails, RSpec), JavaScript (Express, Jest), SQL (PostgreSQL), MongoDB, API</li>
 </ul>
 
-<h4><a href="https://www.udemy.com/course/100-days-of-code/">Python Bootcamp 100 Days of Code (Udemy)</a></h4>(October 2021 - April 2022)
-<h4><a href="https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/">Data Structures and Algorithms Course in Python (Udemy)</a></h4>
+<h4><a href="https://www.udemy.com/course/100-days-of-code/">Python Bootcamp 100 Days of Code (Udemy)</a>, (October 2021 - April 2022)</h4>
+<h5>Student</h5>
 <ul>
     <li>Studied the Python Bootcamp 100 Days of Code on Udemy. During this course, I have learnt how to build apps, and websites, automate processes and scrape websites using Python, OOP, and various modules.</li>
   <li>Developed my python projects:
@@ -70,8 +72,8 @@ I love working in a team and learning about people more through team projects. D
     </li>
 </ul>
 
-<h4><a href="https://www.starcomww.com/">Starcom</a></h4> (March 2021 - September 2021)  
-SEO Manager
+<h4><a href="https://www.starcomww.com/">Starcom</a>, (March 2021 - September 2021) </h4>  
+<h5>SEO Manager</h5>
 <ul>
   <li>Writing Python scripts to automate work for clients (such as pulling the data from GSC using Pandas & Search Console packages).</li>
   <li>Collaborating with internal stakeholders and various clients’ departments to implement new features on the websites.</li>
@@ -80,8 +82,8 @@ SEO Manager
 </ul>
 
 
-<h4><a href="https://www.newlook.com/uk/womens">New Look</a></h4> (February 2020 - March 2021)  
-SEO Assistant Manager
+<h4><a href="https://www.newlook.com/uk/womens">New Look</a>, (February 2020 - March 2021) </h4>  
+<h5>SEO Assistant Manager</h5>
 <ul>
   <li>Working with the SEO agency on the SEO Strategy and delivering SEO improvements</li>
   <li>Collaborating on cross-channel projects, working closely with PPC and Social teams.</li>
@@ -90,16 +92,16 @@ SEO Assistant Manager
 </ul>
 
 
-<h4><a href="https://www.ayima.com/uk/">Ayima</a></h4> (October 2018 - February 2020)  
-SEO Consultant
+<h4><a href="https://www.ayima.com/uk/">Ayima</a>, (October 2018 - February 2020) </h4> 
+<h5>SEO Consultant</h5>
 <p>Delivering SEO audits (technical, content, video, local, facet optimisation, etc) to the clients, assisting the clients’ technical and content teams in the implementation of the recommendations. Participating in calls and meetings with clients. I was also responsible for creating best practice guidelines and delivering SEO training to clients.</p>
 
 
-<h4><a href="https://the-media-image.com/">The Media Image</a></h4> (September 2017 - September 2018)  
-Technical Junior SEO Executive
+<h4><a href="https://the-media-image.com/">The Media Image</a>, (September 2017 - September 2018) </h4>   
+<h5>Technical Junior SEO Executive</h5>
 <p>I was responsible for working on the client’s website, which included delivering new pages and optimising existing pages. I was working on delivering Technical SEO Audits, Backlink audits and content audits to the clients.</p>
 
-<h2>Hobbies & Interests 🌈</h2>
+<h2 id="hobbies">Hobbies & Interests 🌈</h2>
   <ul>
     <li>🧘‍♀️ <b>Yoga & Meditations: </b> Help me to stay fit and centered on my goals. </li>
     <li>✈️ <b>Travelling & Learning about other cultures:</b> I love learning about how people live in different countries. So far, I've been to 20 countries, my next destination is Japan 🇯🇵! </li>
