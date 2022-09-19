@@ -58,7 +58,7 @@ I love working in a team and learning about people more through team projects. D
   <li>How to plan a project and organise a team to build a web app</li>
   <li>Programming languages and frameworks: Ruby (Sinatra, rails, RSpec), JavaScript (Express, Jest), SQL (PostgreSQL), MongoDB, API</li>
 </ul>
-
+<br>
 <h4><a href="https://www.udemy.com/course/100-days-of-code/">Python Bootcamp 100 Days of Code (Udemy)</a>, (October 2021 - April 2022)</h4>
 <h5>Student</h5>
 <ul>
@@ -71,7 +71,7 @@ I love working in a team and learning about people more through team projects. D
     </ul>
     </li>
 </ul>
-
+<br>
 <h4><a href="https://www.starcomww.com/">Starcom</a>, (March 2021 - September 2021) </h4>  
 <h5>SEO Manager</h5>
 <ul>
